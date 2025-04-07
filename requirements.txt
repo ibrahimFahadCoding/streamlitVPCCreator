@@ -1,0 +1,4 @@
+streamlit~=1.44.1
+boto3~=1.37.28
+psycopg2-binary~=2.9.10
+pillow~=11.1.0
